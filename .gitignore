@@ -1,0 +1,7 @@
+# ignore gcp credentials from uploaded to Github
+gcp_credentials.json
+
+# ignore data from uploaded to Github
+data/
+
+fhv_tripdata_2019-10.csv.gz
